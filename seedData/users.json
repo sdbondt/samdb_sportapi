@@ -1,0 +1,62 @@
+[
+    {
+        "name": "An",
+        "email": "an@hotmail.com",
+        "password": "123SAMsam",
+        "company": "Apple"
+    },
+    {
+        "name": "Anthony",
+        "email": "anthony@hotmail.com",
+        "password": "123SAMsam",
+        "company": "Apple"
+    },
+    {
+        "name": "Bart",
+        "email": "bart@hotmail.com",
+        "password": "123SAMsam",
+        "company": "BMW"
+    },
+    {
+        "name": "Ben",
+        "email": "ben@hotmail.com",
+        "password": "123SAMsam",
+        "company": "BMW"
+    },
+    {
+        "name": "Geert",
+        "email": "geert@hotmail.com",
+        "password": "123SAMsam",
+        "company": "Google"
+    },
+    {
+        "name": "Greet",
+        "email": "greet@hotmail.com",
+        "password": "123SAMsam",
+        "company": "Google"
+    },
+    {
+        "name": "Noah",
+        "email": "noah@hotmail.com",
+        "password": "123SAMsam",
+        "company": "Nestle"
+    },
+    {
+        "name": "Nadine",
+        "email": "nadine@hotmail.com",
+        "password": "123SAMsam",
+        "company": "Nestle"
+    },
+    {
+        "name": "Linda",
+        "email": "linda@hotmail.com",
+        "password": "123SAMsam",
+        "company": "Lidl"
+    },
+    {
+        "name": "Leo",
+        "email": "leo@hotmail.com",
+        "password": "123SAMsam",
+        "company": "Lidl"
+    }
+]

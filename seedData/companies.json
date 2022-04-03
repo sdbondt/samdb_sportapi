@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Apple",
+        "description": "Apple Inc. designs, manufactures and markets smartphones, personal computers, tablets, wearables and accessories, and sells a variety of related services.",
+        "site": "https://www.apple.com",
+        "points": 0,
+        "distance": 0,
+        "duration": 0
+    },
+    {
+        "name": "Nestle",
+        "description": "Nestlé is the world's largest food and beverage company. It is present in 187 countries around the world, and its 291,000 employees are committed to Nestlé's purpose of unlocking the power of food to enhance quality for everyone, today and for generations to come.",
+        "site": "https://www.nestle.com",
+        "points": 0,
+        "distance": 0,
+        "duration": 0
+    },
+    {
+        "name": "Lidl",
+        "description": "We are a successful chain of grocery stores and have been expanding strongly throughout Europe for over 40 years. Lidl currently operates around 11,550 stores and more than 200 goods distribution and logistics centers in 31 countries, offering top-quality food and non-food products at the best price.",
+        "site": "https://www.lidl.com/",
+        "points": 0,
+        "distance": 0,
+        "duration": 0
+    },
+    {
+        "name": "Google",
+        "description": "Google LLC is a global technology company specializes in internet-related services and products. The Company is primarily focused on web-based search and display advertising tools, search engine, cloud computing, software, and hardware.",
+        "site": "https://www.google.com/",
+        "points": 0,
+        "distance": 0,
+        "duration": 0
+    },
+    {
+        "name": "BMW",
+        "description": "Today, the BMW Group, with its 31 production and assembly facilities in 15 countries as well as a global sales network, is the world's leading manufacturer of premium automobiles and motorcycles, and provider of premium financial and mobility services.",
+        "site": "https://www.bmw.com",
+        "points": 0,
+        "distance": 0,
+        "duration": 0
+    }
+]
